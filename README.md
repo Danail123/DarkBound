@@ -24,4 +24,4 @@ For images use the Image component imported from "next/image"
 
 The section should collapse into mobile layout under 1024px width (the Hero section currently within the project is not mobile friendly, that should not concern you)
 
-Create your own repository, share the link and commit regularly as you are making progress
+Create your own repository, share the link and commit regularly as you are making progress.
